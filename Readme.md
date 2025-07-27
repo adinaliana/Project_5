@@ -225,7 +225,7 @@ With the newly discovered password (`ChangeMeBaby1MoreTime`), I logged into the 
 
 Alternatively, the same process could be done via the command line. I opened an elevated Command Prompt (`cmd` as Administrator) and navigated to the `C:\Users\Administrator\Desktop` directory. Using the `type root.txt` command, I displayed the contents of the file, confirming the root flag.
 
-![](screenshots/32.png)
+![](screenshots/33.png)
 
 ![](screenshots/34.png)
 
